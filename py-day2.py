@@ -21,3 +21,4 @@ def calculator():
         print("Invalid operator!")
 
 calculator()
+print("done")
